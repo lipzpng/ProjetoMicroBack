@@ -1,0 +1,19 @@
+{
+  "name": "csmicro_server",
+  "version": "1.0.0",
+  "description": "back end do projeto",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "micro-ondas",
+    "conserto",
+    "oficina",
+    "servico",
+    "casa"
+  ],
+  "author": "Felipe, Kawany, Sophia",
+  "license": "ISC"
+}
